@@ -255,6 +255,6 @@ The application currently uses the following MongoDB collections:
 
 ## Author
 
-**Samiul Alim**
+**Nabil Rahber**
 
 If you are using this project for learning or academic work, feel free to fork it and customize it further.
